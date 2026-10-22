@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%231E4620'><path d='M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm-1 14.5v-3.09c-2.31-.41-4-2.42-4-4.91 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.49-1.69 4.5-4 4.91V17.5a1 1 0 0 1-2 0z'/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PlantPal — AI-Powered Gardening & 3D Ecosystem</title>
+    <!-- Tailwind CDN for instant zero-config styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              forest: {
+                50: '#f2f8f3',
+                100: '#e3f0e5',
+                500: '#2d6a36',
+                700: '#1e4620',
+                900: '#0f2411'
+              },
+              sage: {
+                100: '#eef3ef',
+                300: '#b1ccb6',
+                500: '#4a6450',
+                700: '#334c39'
+              },
+              limeAccent: '#6b7e20',
+              cream: '#fbfbf6'
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        background-color: #fbfbf6;
+        color: #181d18;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-[#fbfbf6] text-[#181d18] antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

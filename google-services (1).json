@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1778306162",
+    "firebase_url": "https://plant-ai-bd4a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "plant-ai-bd4a4",
+    "storage_bucket": "plant-ai-bd4a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1778306162:android:1c03458f64d3f8d75946eb",
+        "android_client_info": {
+          "package_name": "com.plantpal.gardening"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1778306162-6pnnu48tue4gfbfiupti1gm1o4jova3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI11OYaokqcFX5E1Xu8Q7rNt7oSgRMhxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1778306162-6pnnu48tue4gfbfiupti1gm1o4jova3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

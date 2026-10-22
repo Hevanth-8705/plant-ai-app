@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448825892503",
+    "project_id": "gen-lang-client-0798358706",
+    "storage_bucket": "gen-lang-client-0798358706.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448825892503:android:18a292d898ff640a4593d2",
+        "android_client_info": {
+          "package_name": "com.plantpal.gardening"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448825892503-f76u37sad1nh22tnhlg5s2q9ql3obknu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9ZtQRtTifqOZcn4sz3tSgjIBWGW0-Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448825892503-f76u37sad1nh22tnhlg5s2q9ql3obknu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
